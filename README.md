@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# dobro.ba
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- web stranica namijenjena humanitarnom udruženju dobro.ba,
+- rad na kreiranju stranice započet krajem maja 2022.godine,
+- tehnologija koja se primjenjuje: MERN stack
 
-## Available Scripts
+## O udruzenju
 
-In the project directory, you can run:
+Od neformalne Viber grupe, danas je Udruženje građana koje svoje planirane aktivnosti realizira uz veliku i neizostavnu pomoć dobrih, vrijednih, plemenitih i časnih ljudi.
+Prostor djelovanja je država Bosna i Hercegovina, sa fokusom za pomoć ljudima u potrebi, održivom povratku i razvoju zajednica ljudi kojima je vlastiti dom prioritet, ali i rad od kojeg će svojim porodicama omogućiti pristojan život i egzistenciju.
+Osnivači Udruženja građana, čine temelj "DOBRO.BA", koji žele biti drugima od koristi, cjelokupnoj društvenoj zajednici, časnim i poštenim društveno odgovornim radom biti primjer razvoja Bosne i Hercegovine kroz humanitarni način djelovanja.
 
-### `npm start`
+# Vizija udruženja
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Udruženje građana "DOBRO.BA“ osnovano je s ciljem da društveno odgovornim humanitarnim radom, kontinuirano, na temelju najviših ljudskih vrijednosti i poštivanja istih bude od koristi osobama socijalne i materijalne ugroženosti, podrške mladima da zacrtane ciljeve realizuju na najkvalitetniji mogući način, prateći trendove razvoja modernog društva.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Misija udruženja
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Udruženje građana "DOBRO.BA“ detaljno planiranim aktivnostima, građanskim inicijativama, društveno odgovornim humanitarnim radom, temelji se na vrijednostima dobra, znanja i razvoja zajednice u širem smislu. Našim povratnicima želimo omogućiti da u vlastitom domu stvaraju preduvjete za pristojan život i od vlastitog rada rješavaju egzistencijalna pitanja. Mladim, talentiranim osobama omogućiti školovanje, sticanje novih znanja i vještina uz finansijsku i materijalnu pomoć.
+Misli dobro, radi dobro, nadaj se dobru!
